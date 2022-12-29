@@ -1,0 +1,6 @@
+This is abc text file no it is a newFile?
+BufferedWriter file
+abcdetrue55
+4.4
+a
+This is PrintWriterDemo
